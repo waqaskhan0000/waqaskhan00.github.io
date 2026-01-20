@@ -231,9 +231,11 @@
             <h2 class="contact-title">Contact</h2>
             <div class="contact-details">
                 <p><strong>Name:</strong> Waqas Khan</p>
-                <p><strong>Phone Number:</strong> <input type="text" class="editable" placeholder="Enter your phone number" value="+1 (123) 456-7890"></p>
+                <p><strong>Phone Number:</strong> <input type="text" class="editable" placeholder="Enter your phone number" value="+92 (315) 988-81529"></p>
                 <p><strong>Email:</strong> waqas.khan@example.com</p>
-                <p><strong>WhatsApp:</strong> +1 (123) 456-7890</p>
+                <p><strong>WhatsApp:</strong> +92 (315) 988-1529"
+                
+                </p>
             </div>
         </div>
     </section>
